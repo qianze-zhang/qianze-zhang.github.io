@@ -11,7 +11,7 @@ I am a PhD candidate in the Department of Economics, Econometrics and Finance at
 
 My doctoral research focuses on the project: *Decision Making in Generative AI: Rationality, Bias & Benchmark*.  
 
-With a background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I approach economic problems through the lens of a behavioral scientist. I study topics at the intersection of **behavioral economics, decision theory, and artificial intelligence**.
+With a background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I approach economic problems through the lens of a behavioral scientist. I study topics at the intersection of behavioral economics, decision theory, and artificial intelligence.
 
 Always available email: chientsechang@gmail.com
 
