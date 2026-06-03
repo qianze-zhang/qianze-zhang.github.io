@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(10 of 12 last); /* 保持 10 份，因为加上侧边栏的 2 份刚好是 12 份全宽 */
+    @include prefix(0.5 of 12);   /* 这是正文和侧边栏中间的微小间距，保留着比较好看 */
+    /* @include suffix(2 of 12); 已删除，不再强制右侧留白 */
   }
 
   .page__inner-wrap {
