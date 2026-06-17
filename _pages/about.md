@@ -19,4 +19,6 @@ My doctoral research is centered on the project: Decision Making in Generative A
 
 Always available email: chientsechang@gmail.com
 
+Pronunciation of my first name: **kee-AN-zee**
+
 [View my CV here](https://www.dropbox.com/scl/fi/7h5rdx1fnv527xnbzgzhk/CV_Qianze_Zhang.pdf?rlkey=vr0crmovskoggox0twq361s3u&st=b30ze38j&dl=0)
