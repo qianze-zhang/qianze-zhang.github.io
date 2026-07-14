@@ -8,6 +8,7 @@ date: 2025-01-01
 venue: 'Working Paper with Dr. Zsombor Méder and Dr. Pim Heijnen'
 paperurl: 'https://qianze-zhang.github.io/files/LLM_representation.pdf'
 ---
+**[📥 Download Working Paper (PDF)](https://qianze-zhang.github.io/files/LLM_representation.pdf)**
 
 **Presentations:**
 
@@ -16,3 +17,4 @@ This paper has been presented or accepted for presentation at the following venu
 * **Symposium on Behavioral AI in Education, Work, and Decision-Making** (Paris)
 * **3rd European Economic Review (EER) Summer School in Behavioural and Experimental Economics** (Lisbon)
 * **TIBER 2026 Symposium** (Tilburg)
+
