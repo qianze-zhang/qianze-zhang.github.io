@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-01-01-LLM-representation-number-1
 excerpt: 'This working paper investigates how generative artificial intelligence models navigate social preferences and monetary value within game-theoretic frameworks.'
 date: 2025-01-01
-venue: 'Working Paper'
+venue: 'Working Paper with Dr. Zsombor Méder and Dr. Pim Heijnen'
 paperurl: 'https://qianze-zhang.github.io/files/LLM_representation.pdf'
 ---
 
